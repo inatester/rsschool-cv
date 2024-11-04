@@ -1,0 +1,6 @@
+.main-container {
+    width: 336px;
+    background: bisque;
+    min-height: 250px;
+    display: flex;
+}
