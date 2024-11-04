@@ -4,3 +4,12 @@
     min-height: 250px;
     display: flex;
 }
+.photo {
+    width: 242.5px;
+    min-width: 242.5px;
+    height: 242.5px;
+    border-radius: 15px;
+    background: url('1.jpeg') no-repeat;
+    background-size: cover;
+    margin-right: 32px;
+}
